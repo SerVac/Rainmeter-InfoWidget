@@ -1,0 +1,8 @@
+# VidgetInfo Balance settings
+# Edit values after "=" then click the widget to reload.
+# url  - API endpoint
+# json - JSON path to display, e.g. data.balance or items[0].name
+# err  - JSON path to a numeric error code (0 = ok); leave empty to disable
+url=https://
+json=
+err=code
