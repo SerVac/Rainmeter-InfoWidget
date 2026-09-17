@@ -1,4 +1,4 @@
-# VidgetInfo Balance
+# Rainmeter InfoWidget Balance
 
 A compact Rainmeter skin that fetches a single value from an HTTP JSON API and displays it with color-coded thresholds.
 
